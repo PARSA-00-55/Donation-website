@@ -1,0 +1,274 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    margin-bottom: 200px;
+}
+.header-section{
+    padding: 200px 0;
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    text-transform: capitalize;
+    text-align: center;
+}
+.header-section h1{
+    font-size: 100px;
+}
+.header-section p{
+    font-size: 30px;
+}
+.header-section a{
+    padding: 20px;
+    font-size: 30px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #ffffff;
+    background-color: #FF5959;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+.donet-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.donet-sec{
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+
+.donet-sec-top h3{
+    font-size: 80px;
+    text-transform: capitalize;
+    line-height: 20px;
+}
+.donet-sec-top p{
+    font-size: 30px;
+    color: #777;
+}
+
+
+.donet-sec-mid{
+    display: flex;
+}
+.amount{
+    padding: 30px;
+    margin: 40px;
+    height: 45px;
+    width: 80px;
+    border-radius: 5px;
+    background-color: rgba(173, 173, 173, 0.541);
+}
+.amount a{
+    text-decoration: none;
+    color: rgb(107, 104, 104);
+    font-size: 30px;
+    font-weight: 700;
+}
+#active{
+    border:5px solid #FF5959;
+    background-color: #ff59592f;
+}
+#active a{
+    color: #FF5959;
+}
+.donet-sec-bottom{
+    width: 100%;
+}
+.donet-sec-bottom input{
+    width: 45%;
+    outline: 0;
+    border: 0;
+    padding: 15px 0;
+    border: 0;
+    text-transform: capitalize;
+    text-align: center;
+    background: transparent;
+    font-size: 30px;
+    border-bottom: 5px solid gray;
+}
+.donet-sec-bottom a{
+    padding: 20px;
+    font-size: 30px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #ffffff;
+    background-color: #FF5959;
+    border-radius: 5px;
+}
+
+
+
+
+
+.donation-plan{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.donet-p-item-1 h3{
+    font-size: 80px;
+    text-transform: capitalize;
+    line-height: 20px;
+}
+.donet-p-item-1 p{
+    font-size: 30px;
+    color: #777;
+}
+.donet-p-item-2{
+    width: 70%;
+    display: flex;
+
+}
+.donet-for{
+    margin: 20px;
+    padding: 20px;
+    height: 430px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    border-radius: 5px;
+    text-transform: capitalize;
+    box-shadow: 0px 0px 20px gray;
+}
+.donet-for img{
+    margin-top: 40px;
+    height: 100px;
+    width: 100px;
+}
+.donet-for h4{
+    font-size: 40px;
+    line-height: 10px;
+}
+.donet-for p{
+    text-align: left;
+    text-align: justify;
+}
+.donet-for-1{
+    background-color: lightblue;
+}
+.donet-for-2{
+    background-color: lightgreen;
+}
+.donet-for-3{
+    background-color: lightsalmon;
+}
+
+
+
+footer{
+    height: 250px;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+}
+footer h4{
+    padding-top: 80px;
+    line-height: 10px;
+    color: #FF5959;
+    font-size: 50px;
+    text-transform: capitalize;
+    font-family:'Dancing Script', cursive ;    
+}
+footer p{
+    color: rgb(168, 168, 168);
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
