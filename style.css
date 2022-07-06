@@ -88,7 +88,6 @@ section{
     outline: 0;
     border: 0;
     padding: 15px 0;
-    border: 0;
     text-transform: capitalize;
     text-align: center;
     background: transparent;
@@ -122,7 +121,7 @@ section{
     line-height: 20px;
 }
 .donet-p-item-1 p{
-    font-size: 30px;
+    font-size: 25px;
     color: #777;
 }
 .donet-p-item-2{
