@@ -7,7 +7,7 @@ section{
     margin-bottom: 200px;
 }
 .header-section{
-    padding: 200px 0;
+    padding: 150px 0;
     background-image: url(images/donation1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -130,6 +130,7 @@ section{
     justify-content: space-between;
 }
 .donet-for{
+    width: 400px;
     margin: 20px;
     padding: 20px;
     height: 430px;
